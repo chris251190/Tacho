@@ -1,0 +1,8 @@
+<resources>
+	<declare-styleable name="TachoView">
+		<attr name="ersteKoordinate" format="float" />
+		<attr name="zweiteKoordinate" format="float"></attr>
+		<attr name="dritteKoordinate" format="float"></attr>
+		<attr name="vierteKoordinate" format="float"></attr>		
+	</declare-styleable> 
+</resources>
