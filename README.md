@@ -1,6 +1,6 @@
 Tacho
 =====
-Die Präsentation hat den Namen 'MOSY_Präsentation.pdf'
+Die Folien der Präsentation haben den Namen 'MOSY_Präsentation.pdf'
 Die Doku läuft unter dem Namen 'Tacho.pdf'
 Die beiden PDF's können heruntergeladen werden, indem man 'View Raw' klickt
 
